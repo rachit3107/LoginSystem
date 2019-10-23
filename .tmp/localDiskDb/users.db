@@ -1,0 +1,4 @@
+{"$$indexCreated":{"fieldName":"id","unique":true,"sparse":false}}
+{"$$indexCreated":{"fieldName":"email","unique":true,"sparse":false}}
+{"createdAt":1571776775216,"updatedAt":1571776775216,"id":1,"email":"rachitdixit79@gmail.com","password":"Rachit","mobile":"8375964618","full_name":"Rachit","_id":1}
+{"createdAt":1571825543612,"updatedAt":1571825543612,"id":2,"email":"rachit@gmail.com","password":"Rubber","mobile":"9140589594","full_name":"Rachit","_id":2}

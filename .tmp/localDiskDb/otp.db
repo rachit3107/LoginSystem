@@ -1,0 +1,4 @@
+{"$$indexCreated":{"fieldName":"id","unique":true,"sparse":false}}
+{"$$indexCreated":{"fieldName":"mobile","unique":true,"sparse":false}}
+{"createdAt":1571777424050,"updatedAt":1571825482002,"id":1,"mobile":"8375964618","otp":"2885","_id":1}
+{"mobile":"9140589594","otp":"1592","createdAt":1571825645997,"updatedAt":1571825645997,"id":2,"_id":2}
